@@ -1,2 +1,2 @@
 # Papers
-Repository hosts the latest versions of my drafts.
+This repository hosts the latest versions of my drafts.
